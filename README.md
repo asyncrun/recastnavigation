@@ -10,6 +10,7 @@ Recast & Detour
 ## Recast
 
 Recast is state of the art navigation mesh construction toolset for games.
+Recast是最先进的游戏导航网格构建工具集
 
 Recast is...
 * 🤖 **Automatic** - throw any level geometry at it and you will get a robust navmesh out
